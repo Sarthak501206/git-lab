@@ -1,6 +1,1 @@
-Hello Git
-Learning Git
-Git is powerful
-This is the login feature code
-Hello Git
-This is a conflict test
+Change from master branch
